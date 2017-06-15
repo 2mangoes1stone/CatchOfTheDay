@@ -40,7 +40,6 @@ class App extends React.Component {
         order: JSON.parse(localStorageRef)
       });
     }
-
   }
 
   componentWillUnmount() {
